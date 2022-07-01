@@ -218,7 +218,7 @@ comprarBoton.addEventListener('click',()=>{
         Swal.fire({
             icon: 'warning',
             title: 'No tienes nada en tu carrito',
-            text: 'Para continuar con la comprar debes tener algo en el',
+            text: 'Para continuar con la compra debes tener algo en el',
             confirmButtonText: 'Ir a comprar algo'
         })
     } else {
