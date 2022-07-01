@@ -1,0 +1,9 @@
+[
+    {"nombre":"fernet","precio":900,"id":1,"img" :"./img/descarga.jfif","cantidad" :1},
+    {"nombre":"Corona","precio":550,"id":2,"img" :"./img/corona11-f88092ba1d4b561ccc16196440343220-480-0.jpg","cantidad" :1},
+    {"nombre":"Campari","precio":650,"id":3,"img" :"./img/Campari-Botella-2018.jpg","cantidad" :1},
+    {"nombre":"Vino Toro","precio":150,"id":4,"img" :"./img/vinotoro.jfif","cantidad" :1},
+    {"nombre":"Vodka Absolut","precio":2500,"id":5,"img" :"./img/absolut-rasp1-1dc72fe23114b0e1e416189287138305-640-0.png","cantidad" :1},
+    {"nombre":"Hielito","precio":300,"id":6,"img" :"./img/png-transparent-ice-packs-distilled-beverage-plastic-bag-ice-vii-ice-food-frozen-food-keg-thumbnail.png","cantidad" :1}
+    
+    ]
